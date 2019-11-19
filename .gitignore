@@ -68,4 +68,9 @@ local.properties
 
 .sts4-cache/
 
+
+.xml
+.idea
+*.iml
+
 # End of https://www.gitignore.io/api/eclipse
