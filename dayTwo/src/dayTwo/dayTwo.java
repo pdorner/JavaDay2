@@ -103,7 +103,7 @@ public class dayTwo extends Application {
 				lb2.setText(k + " is bigger than " + j + " and " + i);
 			}
 		});
-		
+		System.out.println("Git is working");
 		
 		HBox hb1 = new HBox(20, textInputShow, tf);
 		HBox hb2 = new HBox(20, b1, tf1);
